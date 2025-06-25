@@ -29,8 +29,9 @@ A ideia do projeto é simular uma receita real, organizando as seções de forma
 ## 🖼️ Prévia do Projeto
 
 <div align="center">
-  <img src="./assets/main-image.jpg" alt="Imagem do Projeto" />
+  <img src="./assets/project.jpg" alt="Imagem do Projeto" width="50%" />
 </div>
+
 
 ---
 
@@ -52,6 +53,7 @@ pagina-de-receitas/
 │ ├── favicon.png (opcional)
 │ ├── heart.svg
 │ ├── main-image.jpg
+│ ├── project.jpg
 │ └── project-cover.jpg
 │
 ├── index.html
