@@ -11,9 +11,6 @@
   /*Font-family*/
   font-family: "Alice", serif;
 
-  /*Line-height*/
-  line-height: 150%;
-
   /*Color*/
   color: #573a37;
 }
@@ -23,6 +20,7 @@ body {
   background-size: cover;
 
   font-size: 1.6rem;
+  line-height: 150%;
 }
 
 #page {
@@ -31,6 +29,18 @@ body {
   background-color: #f0e8c2;
   border-radius: 2.4rem;
   margin: 4.8rem auto;
+}
+
+main {
+  padding: 2.4rem;
+}
+
+section + section {
+  margin-top: 2.4rem;
+}
+
+#about p + p {
+  margin-top: 1.2rem;
 }
 
 h1 {
@@ -45,4 +55,11 @@ h2 {
 h1,
 h2 {
   color: #291b1a;
+
+  margin-bottom: 0.4rem;
+  line-height: 150%;
+}
+
+ul {
+  padding-left: 2.4rem;
 }
