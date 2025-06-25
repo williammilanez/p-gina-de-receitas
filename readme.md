@@ -50,7 +50,6 @@ pagina-de-receitas/
 ├── assets/
 │ ├── bg.jpg
 │ ├── favicon.svg
-│ ├── favicon.png (opcional)
 │ ├── heart.svg
 │ ├── main-image.jpg
 │ ├── project.jpg
