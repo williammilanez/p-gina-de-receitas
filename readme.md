@@ -1,6 +1,9 @@
-# 🧁 Receita: Cupcake de Café com Chantilly
+# 🧁 Página de Receitas
+## Receita: Cupcake de Café com Chantilly
 
-![Capa do Projeto](./assets/project-cover.jpg)
+<div align="center">
+  <img src="./assets/project-cover.jpg" alt="Capa do Projeto" />
+</div>
 
 Este projeto é uma página estática desenvolvida com **HTML e CSS** que apresenta uma receita deliciosa de **Cupcake de Café com Chantilly**.
 
@@ -25,7 +28,9 @@ A ideia do projeto é simular uma receita real, organizando as seções de forma
 
 ## 🖼️ Prévia do Projeto
 
-![Imagem do Projeto](./assets/main-image.jpg)
+<div align="center">
+  <img src="./assets/main-image.jpg" alt="Imagem do Projeto" />
+</div>
 
 ---
 
@@ -39,7 +44,7 @@ A ideia do projeto é simular uma receita real, organizando as seções de forma
 ## 📁 Estrutura de Pastas
 
 ```
-cupcake-receita/
+pagina-de-receitas/
 │
 ├── assets/
 │ ├── bg.jpg
@@ -53,8 +58,6 @@ cupcake-receita/
 ├── style.css
 └── readme.md
 ```
-
----
 
 ---
 
